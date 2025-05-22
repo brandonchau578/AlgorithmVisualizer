@@ -49,19 +49,7 @@ bashnpm start
 Open your browser
 Navigate to http://localhost:3000
 
-📁 Project Structure
-algorithm-visualizer/
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── AlgorithmVisualizer.js    # Main component
-│   ├── AlgorithmVisualizer.css   # Styling
-│   ├── App.js                    # App wrapper
-│   ├── index.js                  # Entry point
-│   └── index.css                 # Global styles
-├── package.json
-└── README.md
+
 🎯 How to Use
 
 Select an Algorithm: Choose from the dropdown menu (Bubble Sort, Quick Sort, Linear Search)
